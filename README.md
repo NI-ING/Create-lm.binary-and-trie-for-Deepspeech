@@ -3,6 +3,7 @@
 this is a customize creation of lm.binary and the trie file for  **Deepspeech**
 
 Deepspeech version : 0.6.1
+Python version :  3.6
 
 ## Build kenlm
 sudo apt-get install libboost-all-dev libeigen3-dev
